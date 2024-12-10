@@ -1,3 +1,4 @@
 # Yugen
 
-<h1> Aplicación para niños con necesidades educativas especiale (NEE)</h1>
+<h2> Aplicación para niños con necesidades educativas especiales (NEE)</h2>
+<h3> Application for children with special educational needs (SEN) </h3>
