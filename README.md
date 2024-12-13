@@ -1,6 +1,4 @@
-# Yugen
-
-<img scr="https://github.com/vichosepr/Yugen/blob/main/banner_yugen.png?raw=true" width="1000" height="200"/>
+![banner](banner_yugen.png)
 
 <h5>Technologies</h5>
 
