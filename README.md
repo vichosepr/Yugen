@@ -8,7 +8,9 @@
 
 Description
 
-App for children with special educational needs from seven years old, (In this first phase of development, the focus is from seven to ten years old). As a main tool, we use games with a reward system in order to develop the cognitive skills of the student. 
+App for children with special educational needs from seven years old. As a main tool, we use games with a reward system in order to develop the cognitive skills of the student. 
+
+** In this first phase of development, the focus is from seven to ten years old **
 
 Functionalities:
 * Games and Activities
